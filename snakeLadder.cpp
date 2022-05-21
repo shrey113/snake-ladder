@@ -7,9 +7,7 @@ public:
     string name;
 };
 
-// // declaration of all the related variables :
-//    player p1;
-// player p2;
+
 
 class snake
 {
